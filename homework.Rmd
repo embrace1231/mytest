@@ -8,6 +8,8 @@ output:
     df_print: paged
 ---
 
+Another new line.
+
 This is a test.
 
 Use **bookdown** or **rmarkdown** to produce a report for the following task.
